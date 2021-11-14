@@ -1,0 +1,25 @@
+.body--light .q-header {
+  /* background-color: #027be3; */
+  background: rgb(36, 54, 101);
+  background: linear-gradient(
+    90deg,
+    rgba(36, 54, 101, 1) 0%,
+    rgba(2, 123, 227, 1) 100%
+  );
+}
+
+.body--light .q-footer {
+  background: rgb(36, 54, 101);
+  background: linear-gradient(
+    90deg,
+    rgba(36, 54, 101, 1) 0%,
+    rgba(2, 123, 227, 1) 100%
+  );
+
+  position: fixed;
+  bottom: 0;
+}
+
+body.body--light {
+  background: #eef7ff;
+}
