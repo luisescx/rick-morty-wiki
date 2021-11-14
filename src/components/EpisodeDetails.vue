@@ -78,7 +78,7 @@ export default class EpisodeDetails extends Vue {
 
 .content {
   height: 93%;
-  background: #eef7ff;
+  background: #f8fcff;
 }
 
 .card-content {
