@@ -9,7 +9,7 @@
 
 **Link da API:** https://rickandmortyapi.com/
 
-![]('assets/charactersScreen.jpeg')
+![](https://github.com/luisescx/rick-morty-wiki/blob/master/src/assets/charactersScreen.jpeg)
 
 ## :rocket: Como executar
 
