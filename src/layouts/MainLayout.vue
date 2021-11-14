@@ -2,7 +2,7 @@
   <q-layout view="lHh lpr lFf">
     <q-header elevated>
       <q-toolbar>
-        <q-toolbar-title>Rick and Morty Wiki</q-toolbar-title>
+        <q-toolbar-title>Rick & Morty Wiki</q-toolbar-title>
 
         <ToolbarButton
           :label="'Personagens'"

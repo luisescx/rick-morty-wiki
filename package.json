@@ -1,8 +1,8 @@
 {
   "name": "rick-morty-episodes",
   "version": "0.0.1",
-  "description": "Rick and Morty Wiki",
-  "productName": "Rick and Morty Wiki",
+  "description": "Rick & Morty Wiki",
+  "productName": "Rick & Morty Wiki",
   "author": "luisescx <luis.esculapio@Live.com>",
   "private": true,
   "scripts": {

@@ -1,5 +1,5 @@
 <h1 align="center">
-  Rick and Morty Wiki
+  Rick & Morty Wiki
 </h1>
 
 <h4>

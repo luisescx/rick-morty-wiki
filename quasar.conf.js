@@ -124,9 +124,9 @@ module.exports = configure(function (/* ctx */) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: 'Rick and Morty Wiki',
-        short_name: 'Rick and Morty Wiki',
-        description: 'Rick and Morty Wiki',
+        name: 'Rick & Morty Wiki',
+        short_name: 'Rick & Morty Wiki',
+        description: 'Rick & Morty Wiki',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
